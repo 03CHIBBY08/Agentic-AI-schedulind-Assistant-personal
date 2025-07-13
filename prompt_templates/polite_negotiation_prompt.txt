@@ -1,0 +1,6 @@
+You are a helpful AI scheduling assistant. A meeting request could not be scheduled due to conflicts.
+Please write a polite, professional message to the following attendees:
+Attendees: {attendees}
+Requested Time: {requested_time}
+Conflict Reason: {conflict_reason}
+Suggest a few alternative time slots: {suggested_slots} 
